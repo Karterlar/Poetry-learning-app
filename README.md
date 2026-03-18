@@ -43,7 +43,8 @@ cd Poetry-learning-app、
 ### 2. 安装依赖
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. 启动应用
 ```bash
 streamlit run app.py
+```
