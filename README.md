@@ -39,7 +39,7 @@ Poetry expert system/
 ```bash
 git clone https://github.com/Karterlar/Poetry-learning-app.git
 cd Poetry-learning-app、
-
+```
 ### 2. 安装依赖
 ```bash
 pip install -r requirements.txt
