@@ -31,6 +31,7 @@ Poetry expert system/
 ├── requirements.txt       # 依赖文件
 ├── start_app.bat          # 一键启动脚本（Windows）
 └── README.md              # 项目说明文档
+```
 
 ## 三、快速运行与部署
 
