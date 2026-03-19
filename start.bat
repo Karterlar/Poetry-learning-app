@@ -67,3 +67,5 @@ python -m streamlit run poem_app_v3.py
 echo.
 echo 程序已退出。
 pause
+
+Ensure start.bat uses CRLF
